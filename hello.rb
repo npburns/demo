@@ -5,3 +5,4 @@ print "what is your name?"
 name = gets
 
 puts "hello, #{name}! You are #{word}!"
+puts "pandas are awesome"
